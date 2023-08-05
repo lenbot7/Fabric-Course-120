@@ -1,6 +1,9 @@
 {
   "item.mccourse.pink_garnet": "Pink Garnet",
   "item.mccourse.raw_pink_garnet": "Raw Pink Garnet",
+  "item.mccourse.metal_detector": "Metal Detector",
+  "item.mccourse.cauliflower": "Cauliflower",
+  "item.mccourse.peat_brick": "Peat Brick",
 
   "block.mccourse.pink_garnet_block": "Block of Pink Garnet",
   "block.mccourse.raw_pink_garnet_block": "Block of Raw Pink Garnet",
@@ -10,5 +13,13 @@
   "block.mccourse.nether_pink_garnet_ore": "Nether Pink Garnet Ore",
   "block.mccourse.end_stone_pink_garnet_ore": "End Stone Pink Garnet Ore",
 
-  "itemgroup.pink_garnet_group": "Pink Garnet Course Group"
+  "block.mccourse.sound_block": "Sound Block",
+
+  "item.mccourse.metal_detector.no_valuables": "No Valuables Found!",
+
+  "itemgroup.pink_garnet_group": "Pink Garnet Course Group",
+
+  "tooltip.mccourse.metal_detector.tooltip.shift": "Right Click on Blocks to find Valuables!",
+  "tooltip.mccourse.metal_detector.tooltip": "Press §eSHIFT§r for more Information",
+  "tooltip.mccourse.sound_block": "Plays a nice sound when Walking on, or being Right-Clicked"
 }
