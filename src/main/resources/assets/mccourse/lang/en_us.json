@@ -15,6 +15,17 @@
 
   "block.mccourse.sound_block": "Sound Block",
 
+  "block.mccourse.pink_garnet_stairs": "Pink Garnet Stairs",
+  "block.mccourse.pink_garnet_slab": "Pink Garnet Slab",
+  "block.mccourse.pink_garnet_button": "Pink Garnet Button",
+  "block.mccourse.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+  "block.mccourse.pink_garnet_fence": "Pink Garnet Fence",
+  "block.mccourse.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+  "block.mccourse.pink_garnet_wall": "Pink Garnet Wall",
+  "block.mccourse.pink_garnet_door": "Pink Garnet Door",
+  "block.mccourse.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
+
   "item.mccourse.metal_detector.no_valuables": "No Valuables Found!",
 
   "itemgroup.pink_garnet_group": "Pink Garnet Course Group",

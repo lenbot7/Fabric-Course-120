@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "mccourse:pink_garnet"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "mccourse:pink_garnet_pressure_plate"
+  },
+  "show_notification": true
+}
